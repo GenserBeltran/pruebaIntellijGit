@@ -11,5 +11,7 @@ public class Main {
         System.out.println("Tag 2 for 2547 branch");
 
         System.out.println("New commit for 2547 branch");
+
+        System.out.println("Commit for 2547 branch for tag v4");
     }
 }
